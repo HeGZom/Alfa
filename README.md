@@ -1,3 +1,3 @@
 # Alfa
  Alfa hack
- В папке data находятся predict6 и predict2 
+ В папке data находятся predict6 и predict
